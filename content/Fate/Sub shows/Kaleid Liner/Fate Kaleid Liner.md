@@ -3,7 +3,7 @@ title: "Fate/Kaleid Liner"
 enableToc: false
 page_title: Fate
 ---
-# Fate/kaleid liner  
+
 ***
 
 1. Fate/kaleid liner Prisma Illya 

@@ -3,7 +3,7 @@ title: "Sub Series"
 enableToc: false
 page_title: Fate
 ---
-# Sub Series Index
+
 ***
 - [[Fate/Apocrypha]]
 - [[Fate/Sub shows/Fate Grand Order folder/Fate Grand Order|Fate/Grand Order]]

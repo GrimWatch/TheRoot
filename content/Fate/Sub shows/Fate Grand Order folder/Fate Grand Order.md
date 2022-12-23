@@ -3,7 +3,7 @@ title: "Fate/Grand Order"
 enableToc: false
 page_title: Fate
 ---
-# Fate/Grand Order
+
 ***
 
 1. [Fate/Grand Order : First Order](https://anilist.co/anime/97815/FateGrand-Order-First-Order/)
