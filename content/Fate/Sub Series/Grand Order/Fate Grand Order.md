@@ -1,3 +1,7 @@
+---
+title: Fate/Grand Order
+enableToc: false
+---
 # Fate/Grand Order
 ***
 

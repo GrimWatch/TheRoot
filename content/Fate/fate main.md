@@ -1,3 +1,7 @@
+---
+title: Fate
+enableToc: false
+---
 # Fate Main Watch Order
 ***
 

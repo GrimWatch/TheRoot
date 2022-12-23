@@ -1,3 +1,7 @@
+---
+title: Sub Series
+enableToc: false
+---
 # Sub Series Index
 ***
 - [[Fate/Apocrypha]]
