@@ -1,5 +1,5 @@
 ---
-title: Fate/Grand Order
+title: "Fate/Grand Order"
 enableToc: false
 ---
 # Fate/Grand Order

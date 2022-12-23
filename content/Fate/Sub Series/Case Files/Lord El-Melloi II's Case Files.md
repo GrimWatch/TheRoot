@@ -1,5 +1,5 @@
 ---
-title: El-Melloi Case Files
+title: "El-Melloi Case Files"
 enableToc: false
 ---
 # Lord El-Melloi II\`s Case Files

@@ -1,5 +1,5 @@
 ---
-title: Fate/Kaleid Liner
+title: "Fate/Kaleid Liner"
 enableToc: false
 ---
 # Fate/kaleid liner  

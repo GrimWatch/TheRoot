@@ -1,5 +1,5 @@
 ---
-title: Type Moon
+title: "Type Moon"
 enableToc: false
 ---
 

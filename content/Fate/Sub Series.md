@@ -1,5 +1,5 @@
 ---
-title: Sub Series
+title: "Sub Series"
 enableToc: false
 ---
 # Sub Series Index
