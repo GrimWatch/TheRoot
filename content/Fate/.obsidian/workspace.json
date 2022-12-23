@@ -11,8 +11,12 @@
             "id": "92dc97c8ea70ad21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "fate main.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "fate main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "fate main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "fate main.md"
+              }
             }
           }
         ]
@@ -141,6 +149,8 @@
   "active": "92dc97c8ea70ad21",
   "lastOpenFiles": [
     "Sub Series.md",
+    "Fate/Other Spin-Offs/Other Spin-Offs.md",
+    "fate main.md",
     "_index.md",
     "Fate/Sub Series/Case Files/Lord El-Melloi II's Case Files.md",
     "Fate/Sub Series/Grand Order/Fate Grand Order.md"
