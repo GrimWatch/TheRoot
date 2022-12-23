@@ -1,6 +1,7 @@
 ---
 title: "Fate/Grand Order"
 enableToc: false
+page_title: Fate
 ---
 # Fate/Grand Order
 ***

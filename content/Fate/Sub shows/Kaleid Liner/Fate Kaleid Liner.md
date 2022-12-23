@@ -1,6 +1,7 @@
 ---
 title: "Fate/Kaleid Liner"
 enableToc: false
+page_title: Fate
 ---
 # Fate/kaleid liner  
 ***

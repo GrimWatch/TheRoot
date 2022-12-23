@@ -1,6 +1,7 @@
 ---
 title: "Fate"
 enableToc: false
+page_title: Fate
 ---
 # Fate Main Watch Order
 ***

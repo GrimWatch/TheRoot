@@ -1,6 +1,7 @@
 ---
 title: "El-Melloi Case Files"
 enableToc: false
+page_title: Fate
 ---
 # Lord El-Melloi II\`s Case Files
 ***
