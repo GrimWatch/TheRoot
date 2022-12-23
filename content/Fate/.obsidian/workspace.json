@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "14e6121e639e04b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da124089b9d3c5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92dc97c8ea70ad21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "271088d58bef5ea6",
+    "type": "split",
+    "children": [
+      {
+        "id": "de2bb4b7f9618745",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e10abfe542f09c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0ed31ad35097ff4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8effa6eb32ba7c50",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f6da498414afbd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aad984ed8ee1664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fcfe0292fc86a44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70e477210257515a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bbbb211950bad2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d8fc2d59e7f0f4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "92dc97c8ea70ad21",
+  "lastOpenFiles": [
+    "Sub Series.md",
+    "_index.md",
+    "Fate/Sub Series/Case Files/Lord El-Melloi II's Case Files.md",
+    "Fate/Sub Series/Grand Order/Fate Grand Order.md"
+  ]
+}
