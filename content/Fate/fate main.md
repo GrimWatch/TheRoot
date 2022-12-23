@@ -12,7 +12,7 @@ enableToc: false
 
 ***
 
-## [[Sub Series|Sub Series]]
+## [[Fate/Sub Series|Sub Series]]
 
 
 
