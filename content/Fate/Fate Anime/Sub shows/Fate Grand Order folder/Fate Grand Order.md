@@ -10,5 +10,12 @@ page_title: Fate
 3. <a href="https://anilist.co/anime/103277/FateGrand-Order-Divine-Realm-of-the-Round-Table-Camelot--Paladin-Agateram/" target="_blank" rel="noopener"><span>Fate/Grand Order : Divine Realm of the Round Table Camelot - Paladin; Agateram</span> </a>
 4. <a href="https://anilist.co/anime/103275/FateGrand-Order-Zettai-Majuu-Sensen-Babylonia/" target="_blank" rel="noopener"><span>Fate/Grand Order : Babylonia</span> </a>
 5. <a href="https://anilist.co/anime/116756/FateGrand-Order-Final-Singularity--Grand-Temple-of-Time-Solomon/" target="_blank" rel="noopener"><span>Fate/Grand Order : Final Singularity - The Grand Temple of Time : Solomon (movie)</span> </a>
+6. <a href="https://anilist.co/anime/100728/FateGrand-Order-MOONLIGHTLOSTROOM/" target="_blank" rel="noopener"><span>Fate/Grand Order -MOONLIGHT/LOSTROOM-</span> </a>
+
+# Related Spin-Offs
+***
+1. [[Fate/Fate Anime/Other Spin-Offs/Other Spin-Offs|Fate Grand Carnival]]
+
+
 
 

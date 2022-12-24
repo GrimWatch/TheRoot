@@ -1,7 +1,6 @@
 ---
 title: "Fate Sub Series"
 enableToc: false
-page_title: Fate
 ---
 ***
 - [[Fate/Fate Anime/Sub shows/Apocrypha/Apocrypha|Fate Apocrypha]]

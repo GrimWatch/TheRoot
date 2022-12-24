@@ -14,3 +14,5 @@ page_title: Fate
 ## [[Fate/Sub Series|Sub Series]]
 
 ## [[Fate/Fate Anime/Other Spin-Offs/Other Spin-Offs|Spin-Offs]]
+
+> *Note any of the Sub Series and Spin-Offs can be watched in any order  **After Watching the Main Series***
