@@ -28,5 +28,6 @@ page_title: Fate
 </li>
 <li>Fate/kaleid liner Prisma☆Illya (Provisional Title) (TBA)</li>
 </ol>
+
 ***
 > *Note : Respective Side Stories of the given entry in the show is **ordered** in the dropdown if any and is **not required and is purely optional***
