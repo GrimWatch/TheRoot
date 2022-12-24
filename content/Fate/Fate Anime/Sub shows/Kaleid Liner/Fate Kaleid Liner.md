@@ -18,9 +18,9 @@ page_title: Fate
 ***
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary><a href="https://anilist.co/anime/14829/Fatekaleid-liner-PrismaIllya/" target="_blank" rel="noopener"><span>Fate/kaleid liner Prisma☆Illya</span> </a></summary>
 <br>
-This is how you dropdown.
+ <a href="https://anilist.co/anime/19109/FateKaleid-liner-Prisma-Illya-Specials/" target="_blank" rel="noopener"><span>Fate/Kaleid liner Prisma Illya Specials</span> </a>
 </details>
 
 
