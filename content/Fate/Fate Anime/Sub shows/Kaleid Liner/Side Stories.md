@@ -12,7 +12,7 @@ enableToc: false
 ### 2. <a href="https://anilist.co/anime/18851/Fatekaleid-liner-PrismaIllya-Dance-at-the-Sports-Festival/" target="_blank" rel="noopener"><span>Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival! (OVA)</span> </a>
 ### 3. <a href="https://anilist.co/anime/20467/Fatekaleid-liner-PrismaIllya-2wei/" target="_blank" rel="noopener"><span>Fate/kaleid liner Primsa☆Illya 2wei! </span> </a>
 
-   - <a href="https://anilist.co/anime/20862/Fatekaleid-liner-PrismaIllya-2wei-OVA/" target="_blank" rel="noopener"><span>Fate/kaleid liner Prisma☆Illya 2wei! OVA</span> </a>
+   - 
 
 ### 4. <a href="https://anilist.co/anime/20845/Fatekaleid-liner-PrismaIllya-2wei-Herz/" target="_blank" rel="noopener"><span>Fate/kaleid liner Prisma☆Illya 2wei Herz!</span> </a>
 ### 5. <a href="https://anilist.co/anime/21379/Fatekaleid-liner-PrismaIllya-3rei/" target="_blank" rel="noopener"><span>Fate/kaleid liner Prisma☆Illya 3rei!!</span> </a>
