@@ -29,7 +29,7 @@ page_title: Fate
 <li>Fate/kaleid liner Prisma☆Illya (Provisional Title) (TBA)</li>
 </ol>
 
-# Related Spin-Offs
+<h1>Related Spin-Offs</h1>
 ***
 - [[Fate/Fate Anime/Other Spin-Offs/Other Spin-Offs|Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm (OVA)]]
 
