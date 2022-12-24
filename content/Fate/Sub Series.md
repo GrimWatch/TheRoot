@@ -1,5 +1,5 @@
 ---
-title: "Sub Series"
+title: "Fate Sub Series"
 enableToc: false
 page_title: Fate
 ---
