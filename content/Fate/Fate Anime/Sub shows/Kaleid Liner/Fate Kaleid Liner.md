@@ -5,8 +5,7 @@ page_title: Fate
 ---
 # Main Series
 ***
- 1. <details>
-  <summary><a href="https://anilist.co/anime/14829/Fatekaleid-liner-PrismaIllya/" target="_blank" rel="noopener"><span>Fate/kaleid liner Prisma☆Illya</span> </a></summary>  1. <a href="https://anilist.co/anime/19109/FateKaleid-liner-Prisma-Illya-Specials/" target="_blank" rel="noopener"><span>Fate/Kaleid liner Prisma Illya Specials</span> </a>
+ 1. <details><summary><a href="https://anilist.co/anime/14829/Fatekaleid-liner-PrismaIllya/" target="_blank" rel="noopener"><span>Fate/kaleid liner Prisma☆Illya</span> </a></summary>  1. <a href="https://anilist.co/anime/19109/FateKaleid-liner-Prisma-Illya-Specials/" target="_blank" rel="noopener"><span>Fate/Kaleid liner Prisma Illya Specials</span> </a>
 </details>
  2. <a href="https://anilist.co/anime/18851/Fatekaleid-liner-PrismaIllya-Dance-at-the-Sports-Festival/" target="_blank" rel="noopener"><span>Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival! (OVA)</span> </a>
  3. <details>
