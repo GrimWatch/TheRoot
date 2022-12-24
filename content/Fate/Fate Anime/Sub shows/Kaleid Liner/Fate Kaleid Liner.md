@@ -30,4 +30,4 @@ page_title: Fate
 </ol>
 
 ***
-> *Note : Respective Side Stories of the given entry in the show is **ordered** in the dropdown if any and is **not required and is purely optional***
+> *Note : Respective Side Stories of the given entry in the show is ==**ordered**== in the dropdown if any and is **not required and is purely optional***
