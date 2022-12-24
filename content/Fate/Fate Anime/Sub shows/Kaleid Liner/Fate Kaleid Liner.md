@@ -26,13 +26,10 @@ page_title: Fate
 <li>
 <a href="https://anilist.co/anime/118743/Fatekaleid-liner-PrismaIllya-Licht-Nameless-Girl/" target="_blank" rel="noopener"><span>Fate/kaleid liner Prisma☆Illya : Licht Nameless Girl (movie)</span> </a>
 </li>
-<li>Fate/kaleid liner Prisma☆Illya (Provisional Title) (TBA)</li>
-</ol>
+<li>Fate/kaleid liner Prisma☆Illya (Provisional Title) (TBA)</li></ol>
+***
 
-<h1>Related Spin-Offs</h1>
-
-
-
+# Related Spin-Offs
 ***
 - [[Fate/Fate Anime/Other Spin-Offs/Other Spin-Offs|Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm (OVA)]]
 
