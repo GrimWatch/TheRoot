@@ -7,5 +7,6 @@ enableToc: false
 
 ***
 
-#  [[Fate/fate main|Fate]]
+# [[Fate/fate main|Fate]]
+# [[knk/knk anime/knk main|Kara no Kyoukai]]
 
