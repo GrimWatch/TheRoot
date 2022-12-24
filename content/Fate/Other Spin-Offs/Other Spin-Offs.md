@@ -1,5 +1,5 @@
 ---
-title: "Other Spin-offs"
+title: "Other Fate Spin-offs"
 enableToc: false
 page_title: Fate
 ---
