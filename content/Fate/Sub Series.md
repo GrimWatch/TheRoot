@@ -4,9 +4,10 @@ enableToc: false
 page_title: Fate
 ---
 ***
-- [[Fate/Sub shows/Apocrypha/Apocrypha|Fate Apocrypha]]
-- [[Fate/Sub shows/Fate Grand Order folder/Fate Grand Order|Fate Grand Order]]
-- [[Fate/Sub shows/Kaleid Liner/Fate Kaleid Liner |Fate Kaleid liner]]
-- [[Fate/Sub shows/Case Files/Lord El-Melloi II's Case Files|Lord El-Melloi II's Case Files]]
-- [[Fate/Sub shows/prototype/Prototype|Fate Prototype]]
+- [[Fate/Fate Anime/Sub shows/Apocrypha/Apocrypha|Fate Apocrypha]]
+- [[Fate/Fate Anime/Sub shows/Fate Grand Order folder/Fate Grand Order|Fate Grand Order]]
+- [[Fate/Fate Anime/Sub shows/Kaleid Liner/Fate Kaleid Liner |Fate Kaleid liner]]
+- [[Fate/Fate Anime/Sub shows/Case Files/Lord El-Melloi II's Case Files|Lord El-Melloi II's Case Files]]
+- [[Fate/Fate Anime/Sub shows/prototype/Prototype|Fate Prototype]]
+- [[Fate/Fate Anime/Sub shows/Extra/Fate Extra|Fate Extra]]
 

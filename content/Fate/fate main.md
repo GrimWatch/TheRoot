@@ -13,4 +13,4 @@ page_title: Fate
 
 ## [[Fate/Sub Series|Sub Series]]
 
-## [[Fate/Other Spin-Offs/Other Spin-Offs|Spin-Offs]]
+## [[Fate/Fate Anime/Other Spin-Offs/Other Spin-Offs|Spin-Offs]]

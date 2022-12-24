@@ -15,3 +15,12 @@ page_title: Fate
 8. Fate/kaleid liner Prisma☆Illya (Provisional Title) (TBA)
 
 
+***
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
+
