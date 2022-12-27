@@ -1,9 +1,8 @@
 ---
-title: "Fate"
+title: "Other Fate Spin-offs"
 enableToc: false
 page_title: Fate
 ---
-# Other Fate Spin-offs
 ***
 ### [[Fate/Fate|Fate Stay Night]]
 -  <a href="https://anilist.co/anime/100855/Todays-Menu-for-the-Emiya-Family/" target="_blank" rel="noopener"><span>Today's Menu for The Emiya Family</span> </a>
