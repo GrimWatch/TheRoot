@@ -14,7 +14,7 @@ page_title: Fate
 
 # Related Spin-Offs
 ***
--  [[Fate/Fate Anime/Fate anime spinoffs/Other Spin-Offs|Fate Grand Carnival]]
+-  [[TypeMoon/Fate/Fate Anime/Fate anime spinoffs/Fate Spin-Offs|Fate Grand Carnival]]
 
 
 

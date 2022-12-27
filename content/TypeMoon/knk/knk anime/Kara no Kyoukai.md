@@ -13,15 +13,16 @@ enableToc: false
 8. <a href="https://anilist.co/anime/6954/Kara-no-Kyoukai-Shuushou/" target="_blank" rel="noopener"><span>Kara no Kyoukai Chapter 8: Shuushou</span> </a>
 9. <a href="https://anilist.co/anime/14807/Kara-no-Kyoukai-Mirai-Fukuin/" target="_blank" rel="noopener"><span>Kara no Kyoukai: Mirai Fukuin</span> </a>
 
-# Side Stories
+# Side Stories & Spin-Offs
 ***
 - <a href="https://anilist.co/anime/20697/the-Garden-of-sinners-recalled-out-summer-extra-chorus/" target="_blank" rel="noopener"><span>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</span> </a>
+- [[TypeMoon/Phantasm/Carnival Phantasm|Carnival Phantasm]]
 
 >*Note : Watching the Main Series is reccomended before watching the side story*
 
 # Extra 
 ***
-- <a href="https://anilist.co/anime/6624/Kara-no-Kyoukai-Remix-Gate-of-Seventh-Heaven/" target="_blank" rel="noopener"><span>Kara no Kyoukai Remix: Gate of Seventh Heaven</span> </a>
+- <a href="https://anilist.co/anime/6624/Kara-no-Kyoukai-Remix-Gate-of-Seventh-Heaven/" target="_blank" rel="noopener"><span>Kara no Kyoukai Remix: Gate of Seventh Heaven</span> </a> (Recap Movie)
 
 
 

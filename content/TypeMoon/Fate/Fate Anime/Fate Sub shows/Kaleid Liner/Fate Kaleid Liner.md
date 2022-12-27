@@ -31,7 +31,7 @@ page_title: Fate
 
 # Related Spin-Offs
 ***
-- [[Fate/Fate Anime/Fate anime spinoffs/Other Spin-Offs|Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm (OVA)]]
+- [[TypeMoon/Fate/Fate Anime/Fate anime spinoffs/Fate Spin-Offs|Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm (OVA)]]
 
 
 > *Note : Respective Side Stories of the given entry in the show is*  **ordered**  *in the dropdown if any and is*  **not required and is purely optional**

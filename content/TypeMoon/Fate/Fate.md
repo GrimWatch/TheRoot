@@ -11,8 +11,11 @@ page_title: Fate
  4. <a href="https://anilist.co/anime/356/Fatestay-night/" target="_blank" rel="noopener"><span>Fate/stay night</span> </a>
 ***
 
-## [[Fate/Fate Sub Series|Sub Series]]
+## [[TypeMoon/Fate/Fate Sub Series|Sub Series]]
 
-## [[Fate/Fate Anime/Fate anime spinoffs/Other Spin-Offs|Spin-Offs]]
+## [[TypeMoon/Fate/Fate Anime/Fate anime spinoffs/Fate Spin-Offs|Spin-Offs]]
 
 > *Note any of the Sub Series and Spin-Offs can be watched in any order  **After Watching the Main Series***
+
+# [[TypeMoon/Phantasm/Carnival Phantasm|Special]]
+- <a href="https://anilist.co/anime/10012/Carnival-Phantasm/" target="_blank" rel="noopener"><span>Carnival Phantasm</span> </a>

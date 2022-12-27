@@ -7,7 +7,9 @@ enableToc: false
 
 ***
 
-# [[Fate/Fate|Fate]]
-# [[knk/knk anime/Kara no Kyoukai|Kara no Kyoukai]]
-# [[Tsukihime/Tsuki Manga/Tsukihime manga|Tsukihime]]
+# [[TypeMoon/Fate/Fate|Fate]]
+# [[TypeMoon/knk/knk anime/Kara no Kyoukai|Kara no Kyoukai]]
+# [[TypeMoon/Tsukihime/Tsuki VN/Tsukihime|Tsukihime]]
+# [[TypeMoon/Mahoutsukai no Yoru/mahoyo VN/mahoyo|Mahoutsukai no Yoru]]
+
 

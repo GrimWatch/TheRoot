@@ -1,8 +1,7 @@
 ---
-title: "Tsukihime"
+title: "Tsukihime Manga"
 enableToc: false
 ---
-# Manga
 ***
 - <a href="https://anilist.co/manga/30705/Shingetsutan-Tsukihime/" target="_blank" rel="noopener"><span>Shingetsutan Tsukihime</span> </a>
 
