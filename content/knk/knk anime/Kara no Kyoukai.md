@@ -19,6 +19,12 @@ enableToc: false
 
 >*Note : Watching the Main Series is reccomended before watching the side story*
 
+# Extra 
+***
+- <a href="https://anilist.co/anime/6624/Kara-no-Kyoukai-Remix-Gate-of-Seventh-Heaven/" target="_blank" rel="noopener"><span>Kara no Kyoukai Remix: Gate of Seventh Heaven</span> </a>
+
+
+
 
 
 

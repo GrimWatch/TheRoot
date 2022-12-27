@@ -1,4 +1,1 @@
-<details>
-  <summary><a href="" target="_blank" rel="noopener"><span></span> </a></summary>  
-  1. <a href="" target="_blank" rel="noopener"><span></span> </a>
-</details>
+<details><summary><a href="" target="_blank" rel="noopener"><span></span> </a></summary>1. <a href="" target="_blank" rel="noopener"><span></span> </a></details>

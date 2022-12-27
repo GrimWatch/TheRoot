@@ -7,6 +7,7 @@ enableToc: false
 
 ***
 
-# [[Fate/fate main|Fate]]
-# [[knk/knk anime/knk main|Kara no Kyoukai]]
+# [[Fate/Fate|Fate]]
+# [[knk/knk anime/Kara no Kyoukai|Kara no Kyoukai]]
+# [[Tsukihime/Tsuki Manga/Tsukihime manga|Tsukihime]]
 
