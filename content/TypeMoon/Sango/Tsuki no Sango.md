@@ -5,6 +5,7 @@ enableToc: false
 # Promotional Video
 ***
 <iframe src="https://www.youtube.com/embed/dQH62tPvFH8" title="星海社朗読館 『月の珊瑚』 プロモーションビデオ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="height:397px;width:100%;border:none;overflow:hidden;"></iframe>
+
 # Light Novel
 - <a href="https://anilist.co/manga/64329/Tsuki-no-Sango/" target="_blank" rel="noopener"><span>Tsuki no Sango</span> </a>
 # Manga
