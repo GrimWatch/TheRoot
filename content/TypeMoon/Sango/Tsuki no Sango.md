@@ -11,7 +11,7 @@ enableToc: false
 # Manga
 - <a href="https://anilist.co/manga/71957/Tsuki-no-Sango/" target="_blank" rel="noopener"><span>Tsuki no Sango</span> </a>
 
-# Recital by <a href="https://anilist.co/staff/95090/Maaya-Sakamoto" target="_blank" rel="noopener"><span>Maaya Sakamoto</span> </a>
+# Recital by [<a href="https://anilist.co/staff/95090/Maaya-Sakamoto" target="_blank" rel="noopener"><span>Maaya Sakamoto</span></a>]
 
 
 

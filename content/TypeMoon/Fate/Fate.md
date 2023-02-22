@@ -15,7 +15,8 @@ page_title: Fate
 
 ## [[TypeMoon/Fate/Fate Anime/Fate anime spinoffs/Fate Spin-Offs|Spin-Offs]]
 
-> *Note any of the Sub Series and Spin-Offs can be watched in any order  **After Watching the Main Series***
+> [!INFO] Note 
+> *any of the Sub Series and Spin-Offs can be watched in any order  **After Watching the Main Series***
 
 # [[TypeMoon/Phantasm/Carnival Phantasm|Special]]
 - <a href="https://anilist.co/anime/10012/Carnival-Phantasm/" target="_blank" rel="noopener"><span>Carnival Phantasm</span> </a>
