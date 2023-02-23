@@ -34,4 +34,6 @@ page_title: Fate
 - [[TypeMoon/Fate/Fate Anime/Fate anime spinoffs/Fate Spin-Offs|Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm (OVA)]]
 
 
-> *Note : Respective Side Stories of the given entry in the show is*  **ordered**  *in the dropdown if any and is*  **not required and is purely optional**
+>[!INFO] Note
+>
+> *Respective Side Stories of the given entry in the show is*  **ordered**  *in the dropdown if any and is*  **not required and is purely optional**

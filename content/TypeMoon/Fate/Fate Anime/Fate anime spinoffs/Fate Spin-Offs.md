@@ -13,5 +13,8 @@ page_title: Fate
 ### [[TypeMoon/Fate/Fate Anime/Fate Sub shows/Kaleid Liner/Fate Kaleid Liner|Fate Kaleid Liner]]
 - <a href="https://anilist.co/anime/100269/Fatekaleid-liner-PrismaIllya-PrismaPhantasm/" target="_blank" rel="noopener"><span>Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm (OVA)</span> </a>
 
->*Note : Watching the respective Main/Sub Series is reccomended before watching its Spin-Off*
+
+>[!INFO] Note
+> 
+>*Watching the respective Main/Sub Series is reccomended before watching its Spin-Off*
 

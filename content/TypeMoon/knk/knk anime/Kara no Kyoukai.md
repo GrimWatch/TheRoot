@@ -18,7 +18,9 @@ enableToc: false
 - <a href="https://anilist.co/anime/20697/the-Garden-of-sinners-recalled-out-summer-extra-chorus/" target="_blank" rel="noopener"><span>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</span> </a>
 - [[TypeMoon/Phantasm/Carnival Phantasm|Carnival Phantasm]]
 
->*Note : Watching the Main Series is reccomended before watching the side story*
+>[!INFO] Note
+> 
+>*Watching the Main Series is reccomended before watching the side story*
 
 # Extra 
 ***
